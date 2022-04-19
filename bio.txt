@@ -1,5 +1,12 @@
-Hello everyone, my name is Liana (Lia) Mageo.
+Hello everyone, my name is Liaina (Lia) Mageo.
 I am currently in the process of emerging as a professional, thanks to a program called "Year Up".
-Former superiors and co-workers can attest to my exceptional leadership skills, strong work ethic and welcoming persona.
-After having worked many hard labor jobs in the past, I am currently working towards pursuing a career as a Quality Assurance Tester. 
-My late Grandfather worked in the IT department for Microsoft, which had inspired me to pursue the tech field.
+Former superiors and co-workers can attest to my exceptional leadership skills, strong work ethic, and 
+welcoming persona.
+After having worked many hard labor jobs in the past, I am currently working toward pursuing a career 
+as a Quality Assurance Tester. 
+My late Grandfather worked in the IT department for Microsoft, which had inspired me to pursue the tech 
+field. 
+I plan to successfully complete my courses and enter an internship where I can gain hands-on experience,
+receive direction from experienced QA professionals and prepare myself for a career in Quality Assurance.
+I look forward to working with you all, and receiving insight and feedback that will assist me in furthering
+my career.
